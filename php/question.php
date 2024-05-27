@@ -13,7 +13,7 @@ require '../inc/header.inc.php';
 </div>
 <div class="col-12 text-center">
   
-    <a  class="" href="conditions.php">Conditions générales</a>
+    <a  class="" href="validation.php">Valider</a>
 </div>
 
 
