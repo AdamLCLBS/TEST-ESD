@@ -2,7 +2,7 @@
 <?php
 /* 1 - connexion à la BDD */
 
-$pdoTournoi = new PDO(
+$pdoESD = new PDO(
     'mysql:host=localhost;dbname=CES', // nom BDD
     'root', // utilisateur
     '', // mot de passe
